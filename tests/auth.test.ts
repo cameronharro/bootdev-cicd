@@ -1,4 +1,4 @@
-import { beforeAll, describe, expect, test } from "vitest";
+import { describe, expect, test } from "vitest";
 import { getAPIKey } from "../src/api/auth";
 import { IncomingHttpHeaders } from "http";
 
